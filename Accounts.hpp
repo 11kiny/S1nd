@@ -10,7 +10,7 @@ extern std::wstring currentStatus;
 extern std::wstring* loginArr;
 extern std::wstring* passArr;
 extern std::wstring* statusArr;
-extern unsigned int* userId;
+extern size_t* userId;
 
 
 
